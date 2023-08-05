@@ -1,8 +1,4 @@
 
-___________________________________________________________________________________
-****READ ME****
-___________________________________________________________________________________
-
 INSTRUCTIONS TO RUN THE APP:
 
 1.	Opening the app takes you to the login page.
@@ -16,7 +12,7 @@ INSTRUCTIONS TO RUN THE APP:
 
 ____________________________________________________________________________________
 
-CREATED BY TEAM TECHNO 404, SE AI-DS, Fr.CRCE, BANDRA, MUMBAI.
+Created by Team Techno404, SE AI-DS, Fr.CRCE, Bandra, Mumbai for their Java subject submission.
 
 OUR TEAM:
 9368 | EDRYN SHAJAN EAZHAKADAN
